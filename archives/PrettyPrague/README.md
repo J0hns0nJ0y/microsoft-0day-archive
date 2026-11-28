@@ -1,4 +1,7 @@
 # PrettyPrague
+
+_By MSNightmare_
+
 GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability
 
 Another zeroday in an antimalware provider, I'm not sure but I believe this vulnerability affect other GenDigital products as well (such as AVG, Norton...)
