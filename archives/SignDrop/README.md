@@ -15,7 +15,7 @@ From Microsoft :
 
 
 Since October 28, 2025, Microsoft released the CLFS authentication mitigation in the official release channel to curb the exploitation of CLFS vulnerabilities since CLFS was an easy target to exploit since it parsed complex log files in kernel mode. So if anything goes wrong, it's a memory corruption that can be exploited to gain elevated privileges.
-After the mitigation was implemented, there was a sharp decline in publicly exploited CLFS vulnerabilities since it no longer represented a massive attack surface but the mitigation introduced a new vulnerability that I'm calling "SignDrop"
+After the mitigation was implemented, there was a sharp decline in publicly exploited CLFS vulnerabilities since it no longer represented a massive attack surface but the mitigation introduced a new vulnerability that I'm calling "SignDrop" .
 
 The specific flaw exist in clfs.sys in the way how it handle the creation of the authentication file ".cnpf", when creating a new log file by accessing the exposed device in \CLFS
 <img width="786" height="593" alt="clfs_device" src="https://github.com/user-attachments/assets/589e57c9-2a68-44ed-aa2d-a6877a5d82e9" />
