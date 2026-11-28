@@ -1,5 +1,7 @@
 # LegacyHive : Windows user profile service arbitrary hive load elevation of privileges vulnerability
 
+_By MSNightmare_
+
 The PoC requires another standard user credentials and a third username (which can be an administrator account), if the PoC is successful, it will end up mounting the target user hive in current user classes root.
 
 The PoC was stripped down as an attempt to prevent public exploitation, the original PoC did not require additional user credential and was not limited to usrclass.dat hive, any hive could be loaded using this vulnerability but you would need some brain cells to make the PoC do it.
