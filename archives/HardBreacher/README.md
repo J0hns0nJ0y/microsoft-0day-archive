@@ -1,4 +1,7 @@
 # HardBreacher
+
+_By MSNightmare_
+
 Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability
 
 So the problem is now leaking outside of Microsoft, there was poll held against either finding a bug in the home or commercial version and the poll results were the commercial version.
