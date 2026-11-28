@@ -1,4 +1,7 @@
 # FalconFlank
+
+_By MSNightmare_
+
 Crowdstrike Falcon 0day Privilege Escalation Vulnerability
 
 FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in Crowdstrike Falcon Sensor, obviously by the time I drop this Crowdstrike would already have detections for it so if you want to test you either have to add it to the exclusions or obfuscate the PoC and change the dll load technique.
