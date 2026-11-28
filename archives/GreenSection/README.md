@@ -1,4 +1,7 @@
 # GreenSection
+
+_By MSNightmare_
+
 Nvidia GreenSection Memory Corruption 0day vulnerability
 
 Multiple NVIDIA user mode components shares a global memory section in \\BaseNamedObjects\\{52813408-3561-4705-820a-2b3b78be92ba} with full R/W access to everyone, this section stores important data structures inside but there are checks at execution times that prevent anything going wrong.
