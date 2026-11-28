@@ -1,5 +1,7 @@
 # ShieldBreak - Windows Defender 0day vulnerability
 
+_By MSNightmare_
+
 Microsoft has failed to properly patch the RoguePlanet vulnerability CVE-2026-50656, this PoC demonstrates a full patch bypass. 
 
 <img width="1196" height="1037" alt="Untitled" src="https://github.com/user-attachments/assets/184076b9-f703-4e56-a27d-007da717770f" />
