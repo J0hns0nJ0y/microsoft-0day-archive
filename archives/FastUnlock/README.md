@@ -1,5 +1,5 @@
 # FastUnlock
-FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability
+FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability.
 
 _By MSNightmare_
 
