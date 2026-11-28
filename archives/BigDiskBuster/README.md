@@ -2,7 +2,7 @@
 
 _By MSNightmare_
 
-Windows Defender Update Denial of Service Vulnerability
+Windows Defender Update Denial of Service Vulnerability.
 
 This proof of concept is similar to UnDefend, it prevents windows defender from performing platform/signature updates,
 
