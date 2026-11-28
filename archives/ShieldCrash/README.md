@@ -1,4 +1,7 @@
 # ShieldCrash
+
+_By MSNightmare_
+
 Windows Defender 0day Vulnerability
 
 Microsoft has failed to properly patch ShieldBreak [CVE-2026-69414](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-69414), under specific conditions it is still possible to trigger the exact same problem that was caused by ShieldBreak. While Microsoft fixed several things to prevent re-exploiting the issue, they missed a spot where ShieldBreak can still be exploited.
